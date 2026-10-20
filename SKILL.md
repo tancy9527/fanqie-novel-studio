@@ -1,6 +1,6 @@
 ---
 name: fanqie-novel-studio
-description: 番茄小说工作室（公开版·无插件依赖）——网文长篇创作全流程规范：世界观一问一答设定法、章节评分卡工艺、章末钩子硬标准、节奏硬规则、评论诱导、写前中后流程、改稿对比学习、批次管理。纯文件工作流（Markdown 文件即数据），不依赖任何插件，适用于 Claude Code / Cursor / SkillHub / 任意 LLM 环境。触发词：写小说、续写、写新章、分章节写作、世界观设定、评分卡、章末钩子、网文章节、章节工艺、改稿学习、番茄小说、网文等。
+description: 番茄小说工作室（公开版·无插件依赖）——网文长篇创作全流程规范：世界观一问一答设定法、章节评分卡工艺、章末钩子硬标准、节奏硬规则、评论诱导、写前中后流程、改稿对比学习、批次管理。纯文件工作流（Markdown 文件即数据），不依赖任何插件，适用于 Claude Code / Cursor / SkillHub / 任意 LLM 环境。触发词：写小说、续写、写新章、分章节写作、世界观设定、评分卡、章末钩子、网文章节、章节工艺、改稿学习、番茄小说、网文等。English: A complete web-novel long-form workflow skill (plugin-free): Q&A worldbuilding method, chapter scoring card, chapter-end hook rules, pacing rules, comment bait, pre/write/post workflow, revision comparison learning, batch management. Pure file workflow, works in Claude Code / Cursor / SkillHub / any LLM environment. Triggers: write a novel, continue writing, scoring card, worldbuilding, chapter hooks, webnovel chapters, etc.
 ---
 
 # 番茄小说工作室（公开版）

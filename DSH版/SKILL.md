@@ -1,6 +1,6 @@
 ---
 name: fanqie-novel-studio
-description: 番茄小说工作室（DSH 版）——网文长篇创作全流程规范：世界观一问一答设定法、章节评分卡工艺、章末钩子硬标准、节奏硬规则、评论诱导、写前中后流程、番茄改稿对比学习、批次管理，并给出 dsh-novel-writer 插件（novel_* 工具）每一步的调用映射。依赖 DSH + dsh-novel-writer 插件。触发词：写小说、续写、写新章、分章节写作、世界观设定、评分卡、章末钩子、网文章节、章节工艺、改稿学习、番茄小说、网文等。
+description: 番茄小说工作室（DSH 版）——网文长篇创作全流程规范：世界观一问一答设定法、章节评分卡工艺、章末钩子硬标准、节奏硬规则、评论诱导、写前中后流程、番茄改稿对比学习、批次管理，并给出 dsh-novel-writer 插件（novel_* 工具）每一步的调用映射。依赖 DSH + dsh-novel-writer 插件。触发词：写小说、续写、写新章、分章节写作、世界观设定、评分卡、章末钩子、网文章节、章节工艺、改稿学习、番茄小说、网文等。English: The DSH edition of the complete web-novel long-form workflow skill: Q&A worldbuilding, chapter scoring card, chapter-end hook rules, pacing rules, comment bait, full chapter workflow, revision comparison learning, batch management — with a novel_* tool-call mapping for every step. Requires DSH + the dsh-novel-writer plugin. Triggers: write a novel, continue writing, scoring card, worldbuilding, chapter hooks, webnovel chapters, etc.
 ---
 
 # 番茄小说工作室（DSH 版）
